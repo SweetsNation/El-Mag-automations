@@ -1,0 +1,29 @@
+# Secrets, tokens, and local env
+.env
+.env.*
+*.token
+*token*.json
+credentials.json
+client_secret*.json
+gmail_token.json
+
+# Runtime state (already-reported message ids, etc.)
+state/*.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,31 @@
+{
+  "account": "agent@example.com",
+  "timezone": "America/New_York",
+  "cutoff_date": "2026-11-13",
+  "vendors": [
+    {
+      "name": "Example Sign Co",
+      "email": "quotes@example-signs.com",
+      "domain": "example-signs.com",
+      "date_sent": "2026-10-28"
+    },
+    {
+      "name": "Harbor Print Shop",
+      "email": "hello@harbor-print.example",
+      "domain": "harbor-print.example",
+      "date_sent": "2026-10-28"
+    },
+    {
+      "name": "Palm Board Works",
+      "email": "info@palm-board.example",
+      "domain": "palm-board.example",
+      "date_sent": "2026-10-29"
+    },
+    {
+      "name": "Quiet Vinyl Co",
+      "email": "sales@quiet-vinyl.example",
+      "domain": "quiet-vinyl.example",
+      "date_sent": "2026-10-29"
+    }
+  ]
+}

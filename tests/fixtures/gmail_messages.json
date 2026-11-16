@@ -1,0 +1,50 @@
+{
+  "messages": [
+    {
+      "id": "msg-example-reply",
+      "from": "Quotes Team <quotes@example-signs.com>",
+      "to": "agent@example.com",
+      "subject": "Re: Quote request for a 48x24 sign",
+      "date": "2026-10-30T14:22:00-04:00",
+      "snippet": "Thanks for reaching out. The 48x24 3mm ACM panel would be $200 plus tax, ready for pickup in three to four days.",
+      "is_bounce": false
+    },
+    {
+      "id": "msg-harbor-already-reported",
+      "from": "Harbor Print Shop <hello@harbor-print.example>",
+      "to": "agent@example.com",
+      "subject": "Re: Sign stand quote",
+      "date": "2026-10-30T09:15:00-04:00",
+      "snippet": "Standard two-post stand is $400 including tax. Pickup at our shop.",
+      "is_bounce": false
+    },
+    {
+      "id": "msg-palm-bounce",
+      "from": "Mail Delivery Subsystem <mailer-daemon@example-mail.com>",
+      "to": "agent@example.com",
+      "original_to": "info@palm-board.example",
+      "subject": "Delivery Status Notification (Failure)",
+      "date": "2026-10-29T16:04:00-04:00",
+      "snippet": "The recipient address info@palm-board.example was not found. Your message was not delivered.",
+      "is_bounce": true
+    },
+    {
+      "id": "msg-unrelated",
+      "from": "Newsletter <news@promo-list.example>",
+      "to": "agent@example.com",
+      "subject": "Weekly deals",
+      "date": "2026-11-01T11:00:00-04:00",
+      "snippet": "This week's sign blanks are on sale.",
+      "is_bounce": false
+    },
+    {
+      "id": "msg-example-too-early",
+      "from": "quotes@example-signs.com",
+      "to": "agent@example.com",
+      "subject": "Old marketing email",
+      "date": "2026-10-10T10:00:00-04:00",
+      "snippet": "Fall specials on ACM panels.",
+      "is_bounce": false
+    }
+  ]
+}

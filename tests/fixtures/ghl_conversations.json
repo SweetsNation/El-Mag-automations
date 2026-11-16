@@ -1,0 +1,85 @@
+{
+  "conversations": [
+    {
+      "id": "conv-001",
+      "contactName": "Jordan Lee",
+      "lastMessageBody": "I'm frustrated that nobody has told me what the next step is.",
+      "lastMessageDate": 1794396000000,
+      "lastMessageType": "TYPE_SMS",
+      "lastMessageDirection": "inbound",
+      "unreadCount": 5
+    },
+    {
+      "id": "conv-002",
+      "contactName": "Sam Patel",
+      "lastMessageBody": "Can you help me upload my proof of income?",
+      "lastMessageDate": 1794688800000,
+      "lastMessageType": "SMS",
+      "lastMessageDirection": "inbound",
+      "unreadCount": 3
+    },
+    {
+      "id": "conv-003",
+      "contactName": "Riley Chen",
+      "lastMessageBody": "My premium payment was declined. How do I pay?",
+      "lastMessageDate": 1794492300000,
+      "lastMessageType": "TYPE_SMS",
+      "lastMessageDirection": "inbound",
+      "unreadCount": 3
+    },
+    {
+      "id": "conv-004",
+      "contactName": "Morgan Diaz",
+      "lastMessageBody": "I need to update my application because I changed my income.",
+      "lastMessageDate": 1794586320000,
+      "lastMessageType": "TYPE_SMS",
+      "lastMessageDirection": "inbound",
+      "unreadCount": 2
+    },
+    {
+      "id": "conv-005",
+      "contactName": "Avery Brooks",
+      "lastMessageBody": "What is a deductible?",
+      "lastMessageDate": 1794747780000,
+      "lastMessageType": "TYPE_SMS",
+      "lastMessageDirection": "inbound",
+      "unreadCount": 1
+    },
+    {
+      "id": "conv-006",
+      "contactName": "Casey Nguyen",
+      "lastMessageBody": "Please call me when you can.",
+      "lastMessageDate": 1794699900000,
+      "lastMessageType": "TYPE_SMS",
+      "lastMessageDirection": "inbound",
+      "unreadCount": 1
+    },
+    {
+      "id": "conv-007",
+      "contactName": "Taylor Kim",
+      "lastMessageBody": "Thanks, I got it.",
+      "lastMessageDate": 1794754800000,
+      "lastMessageType": "TYPE_SMS",
+      "lastMessageDirection": "inbound",
+      "unreadCount": 0
+    },
+    {
+      "id": "conv-008",
+      "contactName": "Quinn Walsh",
+      "lastMessageBody": "Please see the attached form.",
+      "lastMessageDate": 1794745800000,
+      "lastMessageType": "TYPE_EMAIL",
+      "lastMessageDirection": "inbound",
+      "unreadCount": 2
+    },
+    {
+      "id": "conv-009",
+      "contactName": "Jamie Ortiz",
+      "lastMessageBody": "I sent the payment link a moment ago.",
+      "lastMessageDate": 1794762000000,
+      "lastMessageType": "TYPE_SMS",
+      "lastMessageDirection": "outbound",
+      "unreadCount": 1
+    }
+  ]
+}
