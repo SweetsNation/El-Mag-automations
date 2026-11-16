@@ -257,6 +257,7 @@ def fetch_ghl_conversations(token: str, location_id: str) -> list[dict[str, Any]
     headers = {
         "Authorization": f"Bearer {token}",
         "Version": GHL_VERSION,
+        "User-Agent": "el-mag-automations/1.0 (+https://github.com/SweetsNation/El-Mag-automations)",
         "Accept": "application/json",
     }
     conversations: list[dict[str, Any]] = []
